@@ -600,7 +600,7 @@ void quit(void)
 
 void introduction(void)
 {
-    printf("\n\nWelcome to clue, the game that is exactly like regular Clue except it's less fun.");
+    printf("\n\nWelcome to clue");
     printf("\n\nHere is the story:\n\nRock musician Styop Quoons has invited four complete strangers to hang out ");
     printf("at his fabulous rock-star mansion, which for some reason only has four rooms and a single connecting hallway.");
     printf("  It looks like it's going to be the party of the century, but then --  OH NO!!!  A murder has occurred!");
