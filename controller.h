@@ -1,6 +1,6 @@
 //
 //  controller.h
-//  Raging Clue
+//  clue
 //
 //  Created by Sean Corkery on 3/3/15.
 //  Copyright (c) 2015 MUFFIN. All rights reserved.
