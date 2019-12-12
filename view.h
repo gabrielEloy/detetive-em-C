@@ -1,11 +1,3 @@
-//
-//  view.h
-//  clue
-//
-//  Created by Sean Corkery on 3/3/15.
-//  Copyright (c) 2015 MUFFIN. All rights reserved.
-//
-
 #ifndef __Raging_Clue__view__
 #define __Raging_Clue__view__
 

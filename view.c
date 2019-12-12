@@ -1,11 +1,3 @@
-//
-//  view.c
-//  clue
-//
-//  Created by Sean Corkery on 3/3/15.
-//  Copyright (c) 2015 MUFFIN. All rights reserved.
-//
-
 #include "view.h"
 #include "controller.h"
 #include <string.h>
@@ -677,7 +669,7 @@ void print_room_info(void)
     if (player_position == 19 || player_position == 23) {
         printf("\n\nThe LIBRARY is a large, musty-smelling room packed wall to wall with shelves of books.");
         printf("  Material ranges from priceless first editions of timeless classics to leatherbound encyclopedias ");
-        printf("covering seemingly every subject currently known to mankind.\n\nLol jk, it's mostly DVDs and comic books.");
+        printf("covering seemingly every subject currently known to mankind.\n\n");
     }
     
     // player is in the study

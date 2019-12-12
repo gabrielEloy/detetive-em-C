@@ -1,12 +1,3 @@
-//
-//  controller.h
-//  clue
-//
-//  Created by Sean Corkery on 3/3/15.
-//  Copyright (c) 2015 MUFFIN. All rights reserved.
-//
-
-
 #include <stdio.h>
 
 void new_game(void);

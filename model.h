@@ -1,11 +1,3 @@
-//
-//  model.h
-//  clue
-//
-//  Created by Sean Corkery on 3/3/15.
-//  Copyright (c) 2015 MUFFIN. All rights reserved.
-//
-
 #include <stdio.h>
 #define OUTPUT_FILE "tempdata"
 
